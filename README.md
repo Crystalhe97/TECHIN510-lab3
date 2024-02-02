@@ -3,6 +3,12 @@
 ## Goal of this lab:
 - Create a Streamlit app that can be used to manage Todo task.
 
+## How to run
+```
+pip install -r requirements.txt
+streamlit run app.py
+```
+
 ## What's Included
 
 -  `app.py`
